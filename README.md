@@ -13,6 +13,10 @@ This repository contains MIBs [Management information base](https://en.wikipedia
 
 
 ### Screenshots
+**EATS16N**:
+![EATS16N_items](https://raw.githubusercontent.com/MAGICCC/Zabbix-Eaton-MIBs/master/img/EATS16N_items.png)
+![EATS16N_triggers](https://raw.githubusercontent.com/MAGICCC/Zabbix-Eaton-MIBs/master/img/EATS16N_triggers.png)
 
+**EATS30N**:
 ![EATS30N_items](https://raw.githubusercontent.com/MAGICCC/Zabbix-Eaton-MIBs/master/img/EATS30N_items.png)
 ![EATS30N_triggers](https://raw.githubusercontent.com/MAGICCC/Zabbix-Eaton-MIBs/master/img/EATS30N_triggers.png)
